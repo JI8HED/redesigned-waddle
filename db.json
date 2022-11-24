@@ -1,0 +1,22 @@
+{
+  products: [
+    {
+      "id":1,
+      "desc": "Overwatch",
+      "price":60,
+      "img": "./assets/Overwatch.jpg"
+    },
+    {
+      "id":2,
+      "desc": "WatchDogs2",
+      "price":69,
+      "img": "./assets/WatchDogs2.jpg"
+    },
+    {
+      "id":3,
+      "desc": "Tom Clancy Rainbow Six Siege",
+      "price": 69,
+      "img": "./assets/TomClancyRainbowSixSiege.jpg"
+    }
+  ]
+}
